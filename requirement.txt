@@ -1,4 +1,0 @@
-py-cord
-py-cord[speed]
-py-cord[voice]
-requests
